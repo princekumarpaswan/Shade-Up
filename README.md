@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Weather-App](https://check-weather-prince.netlify.app/)
+## [Link to the Weather-App](https://shade-up-prince.netlify.app/)
 
 
 ![Completed Website](./s1.png)
