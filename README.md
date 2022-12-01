@@ -2,7 +2,7 @@
 
 By Prince Kr Paswan
 
-## [Link to the Shade-U"p-App](https://shade-up-prince.netlify.app/)
+## [Link to the Shade-Up-App](https://shade-up-prince.netlify.app/)
 
 
 ![Completed Website](./s1.png)
