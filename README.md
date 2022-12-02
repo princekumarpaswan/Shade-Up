@@ -1,4 +1,4 @@
-# Shade-Up-App | React.js
+# Shade-Up-App | JavaScript
 
 By Prince Kr Paswan
 
