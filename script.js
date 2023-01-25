@@ -89,3 +89,6 @@ function RangeSelector() {
     document.getElementById('range-color-box').style.backgroundColor = final
 
 }
+
+// function rangecreater(){
+// }
